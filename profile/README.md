@@ -20,6 +20,26 @@ By implementing a seamless integration of development and operations, we have ac
 
 
 
+# Installation :
+Installation procedure for each section is provided in their respective repositories.
+
+# Usage
+To use the Vaccination Certificate Generation project, follow these steps:
+
++ Visit the application website or launch the application locally.
++ Register an account or log in if you already have one.
++ While registering, we will generate a vaccination certificate for you which will be authorized by an admin. Only after the authorization
+  you will be able to generate you vaccination certificate.
+
+Your vaccination certificate will be generated, and you can download or print it for future use.
+
+# Technologies Used :
+ + Frontend: NextJs with TypeScript, shadcn ui as a component library and Tailwind CSS for styling.
+ + Backend: FastApi
+ + Database: PostgreSQL
+ + Authentication: JSON Web Tokens (JWT)
+
+
 # Features
 
 ### Continuous Integration/Continuous Deployment (CI / CD) 
