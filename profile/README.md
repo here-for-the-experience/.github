@@ -8,15 +8,26 @@ By implementing a seamless integration of development and operations, we have ac
 
 ## Using the URLs provided below, you can see the live demo of the application :
 
-### Backend Section :
+### Production Environment :
+#### Backend :
+  + https://api.redevops.store
+  + https://auth.redevops.store
+#### Frontend :
+  + url
+  + url
+### Dev Environment :
+#### Backend :
+  + https://dev.api.redevops.store
+  + http://dev.auth.redevops.store
+### 
 
-+ https://dev.api.redevops.store
-+ https://api.redevops.store
-+ https://auth.redevops.store
-+ http://dev.auth.redevops.store
+### Frontend :
+  + url
+  + url
 
-### Frontend Section :
-+
+### ArgoCD :
+
+### Monitoring with Grafana :
 
 
 
