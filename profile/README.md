@@ -164,6 +164,12 @@ We have incorporated Argo Rollouts into our deployment process to facilitate adv
 
 We have incorporated Terragrunt into our project to enhance the management and orchestration of our Terraform deployments.Terragrunt simplifies the management of remote state in Terraform deployments. With Terragrunt, we can define and configure remote state backends. Terragrunt promotes code reusability and composition by allowing us to define reusable Terraform modules and configurations. Terragrunt supports environment-specific configuration, allowing us to define environment-specific variables and settings for our Terraform deployments.
 
+### Basic Load test for 2000 rps
+<img width="1427" alt="image" src="https://github.com/here-for-the-experience/.github/assets/61122163/2e76839e-2cd0-4a17-b84e-79df476115b2">
+
+<img width="688" alt="image" src="https://github.com/here-for-the-experience/.github/assets/61122163/c1c46768-514a-4440-973f-1ca243dd2dde">
+
+
 
 ## Reporting Problems 
 You can send us a mail at :
