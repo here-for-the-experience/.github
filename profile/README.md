@@ -58,7 +58,7 @@ To use the Vaccination Certificate Generation project, follow these steps:
 Your vaccination certificate will be generated, and you can download or print it for future use.
 
 # Technologies Used :
- + Frontend: NextJs with TypeScript, shadcn ui as a component library and Tailwind CSS for styling.
+ + Frontend: React with shadcn ui as a component library and Tailwind CSS for styling.
  + Backend: FastApi
  + Database: PostgreSQL
  + Authentication: JSON Web Tokens (JWT)
