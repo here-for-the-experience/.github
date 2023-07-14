@@ -61,6 +61,34 @@ Your vaccination certificate will be generated, and you can download or print it
 
 
 # Features
+### Github Strategy
+
+Our GitHub strategy focuses on ensuring effective collaboration, security, and access control within our organization. Here are the key components of our strategy:
+
+##### Repository Organization
+
+###### Logical Segmentation: 
+We organize repositories based on logical boundaries, ensuring that each repository contains related code and resources. This promotes clarity, ease of navigation, and focused ownership of specific components.
+
+###### Granular Access Control: 
+We implement granular access control at the repository level. Access permissions are assigned based on role and responsibility, ensuring that team members have appropriate access to repositories they need for their work.
+
+###### Collaboration and Ownership: 
+Each repository has defined owners or maintainers responsible for code review, merging pull requests, and managing overall repository health.
+
+##### Branching and Version Control
+###### Branching Model: 
+We adopt a branching model, such as GitFlow or a similar strategy, to manage feature development, bug fixes, and releases. This model ensures a structured and organized approach to version control and release management.
+
+###### Pull Requests and Code Review:
+All changes are made via pull requests, enabling thorough code review by designated reviewers.
+
+##### Security and Compliance
+###### Secure Coding Practices: 
+We follow secure coding practices and guidelines to minimize vulnerabilities and maintain a secure codebase. This includes adhering to best practices for input validation, authentication, authorization, and handling sensitive data.
+
+###### Code Analysis and Testing: 
+We incorporate static code analysis tools and automated testing frameworks into our development process.
 
 ### Continuous Integration/Continuous Deployment (CI / CD) 
 
