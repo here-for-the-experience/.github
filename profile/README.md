@@ -13,8 +13,8 @@ By implementing a seamless integration of development and operations, we have ac
   + https://api.redevops.store
   + https://auth.redevops.store
 #### Frontend :
-  + url
-  + url
+  + https://dev.redevops.store
+  + https://dev.admin.redevops.store
 ### Dev Environment :
 #### Backend :
   + https://dev.api.redevops.store
@@ -22,8 +22,8 @@ By implementing a seamless integration of development and operations, we have ac
 ### 
 
 ### Frontend :
-  + url
-  + url
+  + https://redevops.store
+  + https://admin.redevops.store
 
 ### ArgoCD :
 
@@ -37,7 +37,9 @@ By implementing a seamless integration of development and operations, we have ac
   + password : EgNBAzTkR64OIKYS
 
 ### Monitoring with Grafana :
-    
+    url : https://grafana.redevops.store/
+    username : admin
+    password : prom-operator
 
 
 # Installation :
